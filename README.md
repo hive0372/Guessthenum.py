@@ -8,7 +8,11 @@ How to Play ❓
 The program generates a random integer between 1 and 100.
 You will be prompted to enter a guess or type "Q" to quit the game.
 After each guess, the program provides feedback:
+
 -If the guess is correct, the game ends with a success message.
+
 -If the guess is too low, it prompts you to guess a larger number.
+
 -If the guess is too high, it prompts you to guess a smaller number.
+
 -If you decide to quit, type "Q" to exit.
