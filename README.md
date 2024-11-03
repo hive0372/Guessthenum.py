@@ -1,4 +1,4 @@
-# Guessthenum.py
+# Guessthenum
 Guess the Number Game 🎲
 
 This is a simple Python-based command-line game where the user guesses a randomly generated target number between 1 and 100. The game provides feedback on whether the guesses are too high, too low, or correct. It continues until the user either guesses the correct number or decides to quit.
